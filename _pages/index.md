@@ -11,10 +11,10 @@ permalink: /
 - valorant
 
   
-| 好きなキャラクター  | 最高ランク  | 好きな選手 |
+| 好きなキャラクター  | 最高ランク  | 好きなチーム |
 |-----|-----| ------ |
 | ![image](/GHPages_WebSite/assets/images/saifa.avif)  | ![image](/GHPages_WebSite/assets/images/rank.avif)   | ![image](/GHPages_WebSite/assets/images/fennel.png) |
-| サイファー  | アセンダント3  | GON |
+| サイファー  | アセンダント3  | FENNEL |
 
 ### 好きな漫画
 - 呪術廻戦
