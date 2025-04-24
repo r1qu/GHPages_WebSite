@@ -13,7 +13,7 @@ permalink: /
   
 | 好きなキャラクター  | 最高ランク  | 好きな選手 |
 |-----|-----| ------ |
-| ![image](/assets/images/saifa.avif)  | 内容  | 内容 |
+| ![image](/GHPages_WebSite/assets/images/saifa.avif)  | ![image](/GHPages_WebSite/assets/images/rank.avif)   | 内容 |
 | サイファー  | アセンダント3  | GON |
 
 ### 好きな漫画
